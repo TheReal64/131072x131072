@@ -1,7 +1,7 @@
 # 131072*131072
 17179869184 with auto backuping
 
-Made just for fun to continue. 131072 is good but sometimes you reach 65536 to soon. [Play it here!](https://thereal64.github.io/131072x131072/)
+Made just for fun to continue. 131072 is good but sometimes you reach 131072 to soon. [Play it here!](https://thereal64.github.io/131072x131072/)
 
 ### Contributions
 I am keeping original contributions here...
